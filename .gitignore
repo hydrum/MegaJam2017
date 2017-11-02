@@ -1,0 +1,11 @@
+*.opensdf
+*.sdf
+*.sln
+*.suo
+.vs
+Build
+Debug
+DerivedDataCache
+Intermediate
+Saved
+Inbox
