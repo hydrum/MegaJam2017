@@ -5694,7 +5694,7 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(ProjectDir)/FishyJam.uproject",
+			"Path": "$(ProjectDir)/MegaJam2017.uproject",
 			"Type": "UFS"
 		},
 		{

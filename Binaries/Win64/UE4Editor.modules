@@ -2,10 +2,6 @@
 	"BuildId": "3709383",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"MegaJam2017": "UE4Editor-MegaJam2017.dll"
-=======
 		"FishyJam": "UE4Editor-FishyJam.dll"
->>>>>>> d26358b465b9f57a4d74447f29af0666eb640888
 	}
 }
