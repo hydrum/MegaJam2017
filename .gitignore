@@ -12,3 +12,6 @@ Inbox
 /FishyJam.VC.VC.opendb
 /FishyJam.VC.db
 *.pdb
+Binaries/Mac/UE4Editor.modules
+Binaries/Mac/FishyJamEditor.target
+Binaries/Mac/UE4Editor-FishyJam.dylib
